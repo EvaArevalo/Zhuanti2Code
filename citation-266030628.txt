@@ -1,0 +1,1 @@
+Sundermeyer, Martin & Schlüter, Ralf & Ney, Hermann. (2012). LSTM Neural Networks for Language Modeling. 
